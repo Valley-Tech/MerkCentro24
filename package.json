@@ -1,7 +1,7 @@
 {
-  "name": "chatbot-blacks-station",
+  "name": "chatbot-merk-centro",
   "version": "1.0.0",
-  "description": "Chatbot Restaurante Blacks La Estación",
+  "description": "Chatbot Restaurante Merk Centro",
   "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neviskala-laloma/Chatbot-Blacks-Station.git"
+    "url": "git+https://github.com/neviskala-laloma/Chatbot-Merk-Centro.git"
   },
   "bugs": {
-    "url": "https://github.com/neviskala-laloma/Chatbot-Blacks-Station/issues"
+    "url": "https://github.com/neviskala-laloma/Chatbot-Merk-Centro/issues"
   },
-  "homepage": "https://github.com/neviskala-laloma/Chatbot-Blacks-Station#readme",
+  "homepage": "https://github.com/neviskala-laloma/Chatbot-Merk-Centro#readme",
   "type": "module",
   "keywords": [],
   "author": "",
